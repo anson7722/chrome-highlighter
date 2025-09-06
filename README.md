@@ -30,9 +30,9 @@
 
 ## 作者：
 [AnsonJiang](https://github.com/anson7722)
-邮箱：<jiangtc.ny@qq.com>
-微信： alemoon60
-Q Q:  2427369663
+1. 邮箱：<jiangtc.ny@qq.com>
+2. 微信： alemoon60
+3. Q Q:  2427369663
 
 ## 联系我们：
 如果您有任何问题、建议或反馈，请随时联系我们。我们欢迎您的参与和反馈。
